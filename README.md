@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Noobee78
 - 👀 I’m interested in learning everything about coding and creating something that's amazing.
-- 🌱 I’m currently learning Python 3
+- 🌱 I’m currently learning Python 3, Swift, and Full Stack Web Development
 - 💞️ I’m looking to collaborate on any projects that involve Python 3
 - 📫 How to reach me is at my email address, willshpprd@gmail.com
 
